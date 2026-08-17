@@ -19,13 +19,3 @@
 | [**weather-report-rust-Sochi**](https://github.com/DanileKhrebkov/weather-report-rust-Sochi) | ☀️ Мини-приложение для отображения погоды в Сочи в Waybar |
 | [**Image_FFI**](https://github.com/DanileKhrebkov/Image_FFI) | 🖼️ Обработчик изображений, добавляющий Blur & Mirror |
 | [**straycat-rs-psola**](https://github.com/DanileKhrebkov/straycat-rs-psola) | 🐱 Переписанный straycat-rs ресемплер под PSOLA |
-
----
-
-### 📊 Статистика и активность
-
-Я учусь и постоянно развиваюсь. Вот немного цифр:
-
-![Статистика GitHub DanileKhrebkov](https://github-readme-stats.vercel.app/api?username=DanileKhrebkov&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=DanileKhrebkov&layout=compact&theme=tokyonight)
