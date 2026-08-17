@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Привет, я Даниил Хребков (DanileKhrebkov)
 
-<!--
-**DanileKhrebkov/DanileKhrebkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![GitHub followers](https://img.shields.io/github/followers/DanileKhrebkov?style=social)](https://github.com/DanileKhrebkov)
 
-Here are some ideas to get you started:
+Я начинающий разработчик, который увлекся миром системного программирования. Мой основной язык на данный момент — **Rust**. Я люблю разбираться в том, как всё устроено "под капотом", и создавать интересные проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Мои проекты
+
+Здесь собраны мои последние работы. Все они написаны на Rust, и это только начало!
+
+| Проект | Описание |
+| :--- | :--- |
+| [**AI_ASSISTANT**](https://github.com/DanileKhrebkov/AI_ASSISTANT) | 🤖Полностью локальный ИИ ассистент на базе Ollama с TTS & STT |
+| [**BOMBARDIER**](https://github.com/DanileKhrebkov/BOMBARDIER) | 💥 Бенчмарк для сайтов с разными протоколами(HTTP, gRPC, WebSocket) |
+| [**STREAMING_QUOTES**](https://github.com/DanileKhrebkov/STREAMING_QUOTES) | 📈 Стриминг биржевых котировок |
+| [**weather-report-rust-Sochi**](https://github.com/DanileKhrebkov/weather-report-rust-Sochi) | ☀️ Мини-приложение для отображения погоды в Сочи в Waybar |
+| [**Image_FFI**](https://github.com/DanileKhrebkov/Image_FFI) | 🖼️ Обработчик изображений, добавляющий Blur & Mirror |
+| [**straycat-rs-psola**](https://github.com/DanileKhrebkov/straycat-rs-psola) | 🐱 Переписанный straycat-rs ресемплер под PSOLA |
+
+---
+
+### 📊 Статистика и активность
+
+Я учусь и постоянно развиваюсь. Вот немного цифр:
+
+![Статистика GitHub DanileKhrebkov](https://github-readme-stats.vercel.app/api?username=DanileKhrebkov&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=DanileKhrebkov&layout=compact&theme=tokyonight)
